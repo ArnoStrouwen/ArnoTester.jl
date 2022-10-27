@@ -34,7 +34,7 @@ versioninfo() # hide
 </details>
 ```
 ```@raw html
-<details><summary>A more complete overview of all dependencies and their versions are also provided:</summary>
+<details><summary>A more complete overview of all dependencies and their versions is also provided:</summary>
 ```
 ```@example
 using Pkg # hide
